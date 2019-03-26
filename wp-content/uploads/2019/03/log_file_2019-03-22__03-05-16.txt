@@ -1,0 +1,77 @@
+
+---Downloaded files---
+The import files for: Import Demo Data were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost:81/KushbooBhatt
+Data file = C:\wamp\www\KushbooBhatt/wp-content/themes/ashe/inc/about/import/ashe-demo.xml
+Widget file = C:\wamp\www\KushbooBhatt/wp-content/themes/ashe/inc/about/import/ashe-widgets.wie
+Customizer file = C:\wamp\www\KushbooBhatt/wp-content/themes/ashe/inc/about/import/ashe-customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "image_02" (Media)
+[ERROR] Failed to import "image_147" (Media)
+[ERROR] Failed to import "image_471" (Media)
+[ERROR] Failed to import "cropped-image_03.jpg" (Media)
+[ERROR] Failed to import "cropped-image_42.jpg" (Media)
+[ERROR] Failed to import "cropped-image_30.jpg" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Right Sidebar : 
+
+Text - No Title - Imported
+meks_instagram - Instagram - Site does not support widget
+wysija - Subscribe - Site does not support widget
+Tag Cloud - No Title - Imported
+
+Sidebar Alt : 
+
+Text - No Title - Imported
+Search - No Title - Imported
+fbw_id - FEED ON FACEBOOK - Site does not support widget
+recent-posts-widget-with-thumbnails - Recent Posts - Site does not support widget
+
+Footer Widgets : 
+
+recent-posts-widget-with-thumbnails - Recent Posts - Site does not support widget
+Text - Banner Ads - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
